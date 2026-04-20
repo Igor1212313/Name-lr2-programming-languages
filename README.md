@@ -37,3 +37,18 @@ g++ main.cpp -o program
 - ввод из файла input.txt
 - вывод на экран
 - запись результата в output.txt
+
+Решение задач на различных языках программирования:
+
+- C++
+- Python
+- Java
+- JavaScript
+- Rust
+- Go
+- Assembler
+
+## Структура
+- task1
+- task2
+- task3
